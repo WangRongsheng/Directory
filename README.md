@@ -15,7 +15,7 @@
 
 下载后，解压并上传到已经搭建好 PHP环境 的服务器中，然后就可以上传文件和创建文件夹了！
 
-> Github打包下载：https://github.com/WangRongsheng/Directory.zip
+> Github打包下载 `git clone https://github.com/WangRongsheng/Directory.git`
 
 #### 文件结构
 
